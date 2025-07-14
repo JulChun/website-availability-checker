@@ -13,26 +13,23 @@ A Python script that checks if a website is online and measures its response tim
 
 ## 💻 How to Run
 
-```bash
 pip install requests
 python website_checker.py
 Then enter a website URL when prompted.
 
-📸 Example Output
-less
-Копировать
+## 📸 Example Output
+
 Enter website URL: https://openai.com  
 Status Code: 200  
 Response Time: 0.223 seconds  
 Website is UP ✅
-📚 Skills Used
+
+## 📚 Skills Used
+
 Python
-
 HTTP requests
-
 Error handling
-
 Timing execution
 
-✍️ Author
+## ✍️ Author
 JulChun
